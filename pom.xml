@@ -28,8 +28,8 @@
 
         <plugins>
             <plugin>
-            <groupid>com.spotify</groupid>
-                <artifactid>dockerfile-maven-plugin</artifactid>
+            <groupId>com.spotify</groupId>
+                <artifactId>dockerfile-maven-plugin</artifactId>
                 <version>1.4.6</version>
                 <executions>
                     <execution>
