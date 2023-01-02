@@ -5,6 +5,7 @@ pipeline{
     maven "some name"
     jdk "java ledugma"
     }
+    
 
     stages{
         stage("checkout"){
